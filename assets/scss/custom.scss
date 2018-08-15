@@ -1,0 +1,7 @@
+// Required
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+// customize some Bootstrap variables
+$primary: darken(#428bca, 90%);
